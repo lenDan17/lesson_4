@@ -1,0 +1,117 @@
+@font-face {
+    font-family: "Lato2OFL";
+    src: url("../fonts/Lato2OFL/Lato-Black.woff2"), url("../fonts/Lato2OFL/Lato-Black.woff");
+    font-display: swap;
+}
+@font-face {
+    font-family: Lato2OFL;
+    src: url("../fonts/Lato2OFL/Lato-Bold.woff2"), url("../fonts/Lato2OFL/Lato-Bold.woff");
+    font-display: swap;
+}
+@font-face {
+    font-family: Lato2OFL;
+    src: url("../fonts/Lato2OFL/Lato-Regular.woff2"), url("../fonts/Lato2OFL/Lato-Regular.woff");
+    font-display: swap;
+}
+@font-face {
+    font-family: larsseit;
+    src: url("../fonts/larsseit/Larsseit.woff2"), url("../fonts/larsseit/Larsseit.woff");
+    font-display: swap;
+}
+@font-face {
+    font-family: larsseit;
+    src: url("../fonts/larsseit/Larsseit-Medium.woff2"), url("../fonts/larsseit/Larsseit-Medium.woff");
+    font-display: swap;
+}
+@font-face {
+    font-family: larsseit;
+    src: url("../fonts/larsseit/Larsseit\ Bold.woff2"), url("../fonts/larsseit/Larsseit\ Bold.woff");
+    font-display: swap;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top-header {
+}
+.list {
+    font-family: larsseit;
+    font-weight: 500;
+    color: blue;
+}
+.basen-text h1 {
+    font-family: larsseit;
+    font-weight: 700;
+    color: rgb(255, 0, 43);
+}
+.basen-text p{
+    font-family: larsseit;
+    font-weight: 400;
+    color: rgb(173, 173, 187);
+}
+span{
+    color: blueviolet;
+    font-family: Roboto;
+    font-weight: 700;
+}
+.kids-swim  h2{
+    font-family:Roboto;
+    font-weight: 700;
+    color: rgb(0, 255, 136);
+}
+.kids-swim p{
+    font-family: Roboto;
+    font-weight: 400;
+    color: rgb(92, 98, 78);
+}
+.swim-people {
+    font-family: larsseit;
+    font-weight: 400;
+    color: blue;
+}
+.swim-people h3{
+    font-family: larsseit;
+    font-weight: 700;
+    color: rgb(84, 158, 174);
+}
+.swim-end h4{
+    font-family: Roboto;
+    font-weight: 500;
+    color: rgb(55, 55, 132);
+}
+.swim-end li{
+    font-family: larsseit;
+    font-weight: 500;
+    color: blue;
+}
+.translator {
+    color: aquamarine;
+}
+
+.terms {
+    font-family: Lato2OFL;
+    font-weight: 700;
+   
+}
+.siek {
+    font-family: Lato2OFL;
+    font-weight: 400;
+}
+.time {
+    font-family: Lato2OFL;
+    font-weight: 900;
+}
+.translator a{
+    color: red;
+}
